@@ -1,0 +1,12 @@
+
+.mainbody{height: 700px; background: orange;}
+.header{height: 100px; background: blue;}
+
+.menu{height: 50px; background: green;}
+.center{height: 200px; background: grey;}
+.left{height: 200px;}
+.top{height: 100px; background: violet;}
+.bottom{height: 100px; background: lightcoral;}
+
+.tleft{height: 100px; background: lightgreen;}
+.tright{height: 100px; background: tomato;}
